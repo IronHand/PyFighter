@@ -18,7 +18,7 @@ pfsound			- Folder with the default sound effects of PyFighter
 Optional files:
 ---------------
 
-wave1.txt		- A first demo enemy wave file#
+wave1.txt		- A first demo enemy wave file
 ultraman		- Sound folder for wave1.txt
 
 !The game is in development so in this time you need the "ultraman" folder to play.
