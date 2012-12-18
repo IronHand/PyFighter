@@ -1,0 +1,14 @@
+#PyFighter Config File
+#---------------------
+#
+#Be carefull with the screen option, some wave files maybe not work in each resolution
+#screen 800x600
+#
+#uncommend it for fullscreen mode
+#fullscr
+#
+#Set down the number of background stars if the game is to slow - def = 100
+#stars 100
+#
+#User input device (keyboard, joystick or mouse)
+input mouse
