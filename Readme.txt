@@ -1,9 +1,10 @@
 PyFighter(TM) by Iron Hand
 ----------------------
 
-PyFighter is an monocomatic, horizontal space shooter, thats bases only on geometrical calculations.
-The waves of enemys are produced by an special language called PFL (PyFighter Language). Everyone is invited
-to create new waves by his own.
+PyFighter is an monochromatic, horizontal space shooter, thats based only on geometrical calculations.
+The waves of enemys are produced by an special language called PFL (PyFighter Language). Everyone is invited to create new waves by his own.
+
+Some first few comments to the PFL are documented in the "wave1.txt" file, that can be used to learn how it works.
 
 Needed files:
 -------------
